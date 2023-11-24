@@ -357,6 +357,7 @@ article .icon {
 
 #projects {
   position: relative;
+  margin-top: 6.5rem;
 }
 
 .color-container {
@@ -429,4 +430,8 @@ footer {
 
 footer p {
   text-align: center;
+}
+
+.shadow{
+  box-shadow: 10px 10px 5px lightblue;
 }
